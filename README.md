@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 ## Backend Developer
 
----
-
 ### 📫 How to reach me 
 <p align="left"> 
 <a href="https://tr.linkedin.com/in/yunusbgrynk" target="_blank"> <img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" alt="linkedin" width="40" height="40"/>
